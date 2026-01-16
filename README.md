@@ -18,7 +18,7 @@ Hello, I'm Ameya Gurjar, also known as ostuxcat, a coding enthusiast from Mumbai
     <a href="https://t.me/ostuxcat">
         <img src="https://custom-icon-badges.demolab.com/badge/ostuxcat-229ed9?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
-    <a href="https://discord.com/users/730518724984963183">
+    <a href="https://discord.com/users/614888744788426864">
         <img src="https://custom-icon-badges.demolab.com/badge/ostuxcat-7289da?style=for-the-badge&logo=discord&logoColor=white">
     </a>
   </a>
